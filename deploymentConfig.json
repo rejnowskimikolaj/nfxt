@@ -1,0 +1,11 @@
+{
+  "crowdsaleRate":100000000000000000,
+  "maxCap":1000000000000000,
+  "ERC721Name":"NextHollywood",
+  "ERC721Symbol":"NFXT",
+  "ERC721BaseTokenURI":"nfxt.com/",
+
+  "ERC721Address":"",
+  "CrowdsaleMasterAddress":"",
+  "CrowdsaleAddress":""
+}
